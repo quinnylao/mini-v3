@@ -1,3 +1,7 @@
+/**
+ * 框选V1，扩展性不足
+ */
+
 const onlyClick = {
     // 定义自定义指令
     mounted(el, binding) {
